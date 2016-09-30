@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"u",
+				"user_role"
+			],
+			[
+				"a",
+				"arsort"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"la",
+				"last_reply"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"the",
+				"the_content"
+			],
+			[
+				"the_",
+				"the_title"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"de",
+				"device_id"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"x",
+				"x_val"
+			],
+			[
+				"box_",
+				"box_width"
+			],
+			[
+				"bo",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 416.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/functions.php",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/js/views/post.js",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/js/models/post.js",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/js/collections/archive.js",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/sass/style.scss",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/templates.php",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/js/routers/router.js",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/js/views/scrollview.js",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/js/app.js",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/startuply/page-user-login-cpanel.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support/themes/default/list.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/psdnaarhtml/style.css",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support/includes/functions-post.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support/includes/functions-templating.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support/themes/default/details.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/startuply/single.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/startuply/page-fullwidth.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/startuply/page.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support/includes/class-awesome-support.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/startuply/page-ticket.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support/includes/admin/class-admin-tickets-list.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/psdnaarhtml/page-ticket.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/startuply/page-boxed-no-sidebar.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/startuply/engine/extend/vivaco-vc-templates.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-submit.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support/includes/file-uploader/settings-file-upload.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support/includes/file-uploader/mime-types.php",
+		"/Users/martijn/Documents/projects/psdnaarhtml.nl/wp-config.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/includes/postformats/status.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/includes/postformats/standard.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/includes/postformats/image.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/loop.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/archive.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/includes/postformats/single/evenement-meta.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/style.css",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/includes/postformats/single/image.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/single-evenement.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/__template-agenda.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/header.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/template-agenda.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/includes/postformats/post-meta.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/single-agenda.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/template-bg.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/archive-agenda.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/js/jquery.blog.js",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-config.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/footer.php",
+		"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico/functions.php",
+		"/Users/martijn/Documents/projects/martijnwip.nl/wp-content/themes/read/functions.php",
+		"/Users/martijn/Documents/projects/martijnwip.nl/wp-config.php",
+		"/Users/martijn/Documents/projects/martijnwip.nl/wp-content/plugins/bj-lazy-load/inc/class-bjll.php",
+		"/Users/martijn/Downloads/wordpress 4/wp-config.php",
+		"/Users/martijn/Documents/projects/martijnwip.nl/wp-content/plugins/bj-lazy-load/bj-lazy-load.php",
+		"/Users/martijn/Documents/projects/martijnwip.nl/wp-content/plugins/enjoy-instagram-premium/enjoyinstagram.php",
+		"/Users/martijn/Documents/projects/martijnwip.nl/.htaccess",
+		"/Users/martijn/Documents/projects/martijnwip.nl/wp-content/plugins/static-pages/readme.txt",
+		"/Users/martijn/Documents/projects/martijnwip.nl/wp-content/themes/read/footer.php",
+		"/Users/martijn/Documents/projects/martijnwip.nl/wp-content/themes/read/header.php",
+		"/Users/martijn/Documents/projects/www.kingfishercafe.nl/www/wp-content/themes/kingfisher/sass/style.scss",
+		"/Users/martijn/Documents/projects/www.kingfishercafe.nl/www/wp-content/themes/kingfisher/index.php",
+		"/Users/martijn/Documents/projects/www.kingfishercafe.nl/www/wp-content/themes/kingfisher/header.php",
+		"/Users/martijn/Documents/projects/www.kingfishercafe.nl/www/wp-content/themes/kingfisher/style.css",
+		"/Users/martijn/Documents/projects/sublime_projects/kingfisher.sublime-workspace",
+		"/Users/martijn/Documents/projects/www.kingfishercafe.nl/www/wp-content/themes/kingfisher/config.rb",
+		"/Users/martijn/Documents/projects/www.kingfishercafe.nl/www/wp-content/themes/kingfisher/js/jquery-1.7.min.js",
+		"/Users/martijn/Documents/projects/www.kingfishercafe.nl/www/wp-content/themes/kingfisher/js/jquery.polyglot.language.switcher.js",
+		"/Users/martijn/Documents/projects/sublime_projects/kingfisher.sublime-project",
+		"/Users/martijn/Downloads/tangotrain (1).sql",
+		"/private/var/folders/mk/cbcbz8ms57scz93fqqg7t0bm0000gn/T/b5d08191-e41d-4220-9c6f-1a940195ad35/public/sites/www.vipdance.nl/wp-config.php",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/header.php",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/gridster/index.php",
+		"/Users/martijn/Documents/techlab/backbone/wordpress/wp-content/themes/backbone-wp-master/header.php",
+		"/Users/martijn/Desktop/U05271614.out_processed_at_29052015_0807.csv",
+		"/Users/martijn/Desktop/api01",
+		"/private/var/folders/mk/cbcbz8ms57scz93fqqg7t0bm0000gn/T/ab7f124b-1961-4b47-b2e2-406967c3f5a1/webspace/httpdocs/wp-config.php",
+		"/Users/martijn/Documents/www.thegrenadachocolatetales.com/db_thegrenadachocolatetales_com (1).sql",
+		"/Users/martijn/Downloads/Instagram-Infinite-Scroll-master/README.md",
+		"/Users/martijn/Desktop/email_test.sh",
+		"/Users/martijn/Desktop/fixico_commit/Fixico_Development_879c248a4e41/laravel/public/css/all.css",
+		"/private/var/folders/mk/cbcbz8ms57scz93fqqg7t0bm0000gn/T/5af8e9b6-37b3-4ef4-8a19-bc8e85065998/web/blog inspiratiesessie.html",
+		"/Users/martijn/Dropbox/FONK (Medirol - Spits)/4. Development/4. Databronnen/1. Outputfiles februari 2014/A02150916.out",
+		"/Applications/MAMP/htdocs/lab/countdown/variant1/index.php",
+		"/Users/martijn/Desktop/navads_bak/navads/header.php",
+		"/Users/martijn/Desktop/navads_bak/navads/template-home.php",
+		"/Users/martijn/Downloads/1600b4071578a5f9c47bbe350a11e661-navads.all/navads.sql",
+		"/Applications/MAMP/htdocs/lab/index.php",
+		"/Users/martijn/Downloads/mailgun-php-master/src/Mailgun/Mailgun.php",
+		"/private/var/folders/mk/cbcbz8ms57scz93fqqg7t0bm0000gn/T/d405179d-3a55-4182-9254-5a7a4bf60d75/home/omroep/fonkmobile/zoekhetuit.hetklokhuis.nl/pages/sportrusten_homepage_bak.txt",
+		"/Applications/MAMP/htdocs/HVG/home.html",
+		"/Users/martijn/Documents/projects/php-cities/php-parse/parse.php",
+		"/Users/martijn/Documents/projects/php-cities/index.php",
+		"/Users/martijn/Documents/CloudProjects/PHP-Cities/cloud/main.js",
+		"/private/var/folders/mk/cbcbz8ms57scz93fqqg7t0bm0000gn/T/d405179d-3a55-4182-9254-5a7a4bf60d75/home/omroep/fonkmobile/zoekhetuit.hetklokhuis.nl/pages/wp-content/themes/klokhuis/style.css",
+		"/private/var/folders/mk/cbcbz8ms57scz93fqqg7t0bm0000gn/T/d405179d-3a55-4182-9254-5a7a4bf60d75/home/omroep/fonkmobile/zoekhetuit.hetklokhuis.nl/pages/wp-content/themes/klokhuis/header.php",
+		"/private/var/folders/mk/cbcbz8ms57scz93fqqg7t0bm0000gn/T/d405179d-3a55-4182-9254-5a7a4bf60d75/home/omroep/fonkmobile/zoekhetuit.hetklokhuis.nl/pages/wp-content/themes/klokhuis/single.php",
+		"/Applications/MAMP/htdocs/desert-air/jquery-1.10.2.min.js",
+		"/Applications/MAMP/htdocs/desert-air/dummy.html",
+		"/Applications/MAMP/htdocs/desert-air/index.php",
+		"/Applications/MAMP/htdocs/fixico/index.html",
+		"/Users/martijn/Documents/projects/php-cities/wercker.yml",
+		"/Users/martijn/Downloads/sportrustensportrusten.sql",
+		"/Users/martijn/Downloads/ejs-master/Readme.md",
+		"/Users/martijn/Downloads/fonkmobile_development.sql",
+		"/Users/martijn/Desktop/00003/000014/cardsetinfo_nl.cfg",
+		"/Users/martijn/Downloads/selectnav.js-master 2/README.md",
+		"/Users/martijn/Downloads/md215483db236267.sql",
+		"/Users/martijn/Downloads/wordpress/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/deBijenkorfGame/game/yaml/game.yml",
+		"/Users/martijn/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/ernstyoung/style.css",
+		"/Users/martijn/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes",
+			"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/startuply",
+			"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support",
+			"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes/startuply",
+			"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/themes",
+			"/Users/martijn/Documents/projects/psdnaarhtml.nu/wp-content/plugins/awesome-support",
+			"/Users/martijn/Documents/projects/vipdance.nl",
+			"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes/elastico",
+			"/Users/martijn/Documents/projects/vipdance.nl/wp-content/themes",
+			"/Users/martijn/Documents/projects/martijnwip.nl/wp-content/plugins",
+			"/Users/martijn/Documents/projects/martijnwip.nl/wp-content/plugins/enjoy-instagram-premium",
+			"/Users/martijn/Documents/projects/www.kingfishercafe.nl/www/wp-content/themes/kingfisher/sass"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"normally you would want to add",
+			"Under construction",
+			"print_",
+			"mailgun",
+			"email",
+			"wpas_get_tickets_list_column_content",
+			"wpas_get_replies",
+			"wpas_get_tickets_list_column_content",
+			"wpas-activity",
+			"data-colname",
+			"column-wpas-activity",
+			"wpas_get_tickets_list_column_content",
+			"wpas-table-hover",
+			"id=\"reply-",
+			"'/page.php';",
+			"dirname( __FILE__ ) . '/page.php';",
+			"class=\"container-fluid\"",
+			"container-fluid",
+			"19% !important",
+			"wpas-btn-default",
+			"ticket-submit",
+			"more",
+			".single-post .hentry",
+			"#small-page",
+			"isotope",
+			"blog-grid",
+			"**",
+			"portfolio",
+			"livereload.js",
+			"si_get_posts_archives",
+			"gaga",
+			"enqueue_scripts",
+			"bj-lazy",
+			".css",
+			"HoyHoy",
+			".js",
+			"css/",
+			".css",
+			"class=\"imag",
+			"blaat",
+			".shirts",
+			"html",
+			"maryijnwip",
+			"www.tangotrain.com",
+			"../images",
+			"../",
+			"ernst",
+			"TOGETHER WE PLAY",
+			"o	ADMINTIME",
+			"slider",
+			"startDate",
+			"home_bg_pattern.jpg",
+			"join",
+			"slug",
+			"join",
+			"birth",
+			"bar",
+			"sjomm",
+			"krat",
+			"tran",
+			"finis",
+			"finish",
+			"ste",
+			"konijn",
+			"krat",
+			"olie",
+			"water",
+			"game_",
+			"water",
+			"olievlek",
+			"water",
+			"krat",
+			"water",
+			"road",
+			"game",
+			"index_search_center"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"martijnwip",
+			"www.maryijnwip.nl/tangotrain",
+			"https://www.fixico.nl/fixico/images"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/martijn/Documents/projects/sublime_projects/kingfisher.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

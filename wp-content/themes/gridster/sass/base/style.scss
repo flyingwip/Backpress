@@ -1,0 +1,44 @@
+
+$base-font-size: 16px;
+
+
+@function em($px, $base: $base-font-size) {
+    @return ($px / $base) * 1em;
+}
+
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background: #f6f6f6;
+	font-size: em(13px);
+	line-height: em(26px)
+
+}
+
+h1, h2{
+	font-family: 'Montserrat', sans-serif;
+}
+
+nav{
+	
+	background-color: #FFF;
+	ul{
+		list-style-type: none;
+		position: relative;
+		
+		li{
+			display: inline;
+			font-family: "Montserrat", "Open Sans", sans-serif;
+			padding: em(5px);
+			text-transform: uppercase;
+			font-size: em(24px);
+			margin-right: em(5px);
+			color: #000;				
+		}
+		
+		a{
+			text-decoration: none;
+		}
+	}
+	
+}

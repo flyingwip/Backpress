@@ -1,0 +1,302 @@
+@import "compass";
+
+@import "vars";
+@import "theme_info";
+
+// Base 
+@import "base/normalize";
+
+// Base 
+@import "base/style";
+
+
+// States 
+@import "states/media_queries";	
+
+// Importing Susy 
+@import 'susy'; 
+
+@import "breakpoint";
+
+
+
+$susy: (
+  container: 1140px,
+  columns: 12,
+  global-box-sizing: border-box,
+  debug: (image: false),
+  );
+ 
+@include border-box-sizing;
+
+.container{
+	padding: 0 20px;
+	@include container() ;	
+
+	
+}
+
+.masonry {
+  @include container();
+}
+
+.masonry__gutter {
+  width: gutter();
+}
+
+
+.header{
+
+	width: span(12 last); 	
+
+	.menu{
+		width: span(12 last); 	
+		height: em(60px);
+		background-color: #FFF;
+		
+		nav{
+			@include span(9 of 12);
+		}
+		
+		.ion-android-search{
+			font-size: 21px;
+			position: relative;
+			top:3px;
+			cursor: pointer;
+		}
+		
+		.searchie{
+			@include span(3 of 12 last);
+			text-align: right;
+			padding-right: gutter();
+			padding-top: em(14px);
+		}
+		
+	}
+	
+
+	
+}
+
+.masonry__column {
+  
+  width: span(12);
+  
+  @include breakpoint(479px) {
+  	width: span(6);
+ 
+  }
+  
+  @include breakpoint(960px) {
+  	width: span(4);
+  }
+
+  
+  @include breakpoint(1140px) {
+  	width: span(3);
+  }
+
+  
+
+}
+
+.masonry__item {
+  
+  margin-top: gutter();
+  margin-bottom: gutter();
+  width: span(12);
+  background: #FFF;
+  
+  
+  
+  .post-content{
+	  padding: gutter()*3;	
+	
+  }
+
+  
+  a{
+	  text-decoration: none;
+	  color: black;
+  }
+  
+  .post-title{
+	  text-transform: uppercase;
+	  text-align: center ;
+	  font-family: "Montserrat","Open Sans";
+	  font-size: em(18px);
+	  margin-bottom: em(-12px);
+	  
+  }
+  
+  .thumbnail_container{
+  	text-align: center;
+  	margin-bottom: em(5px);
+  }
+  
+  .post_thumbnail{
+  	max-width: 100%;
+  	
+  }
+  
+  .entry-meta-footer{
+	  border-top: 1px solid #EEE;
+	  padding: gutter()*3;	
+	  text-align: center;
+	  color: #AAA;
+	  text-transform: uppercase;
+	  font-size: em(12px);
+	  a{
+		  color:#73bcde;
+	  }
+	  a:hover{
+		  color: #000;
+	  }
+	  
+	  .heart-icon{
+		  font-size: em(24px);
+		  color: #AAA;
+		  position: relative;
+		  top: em(1px);
+	  }
+	  
+	  a .heart-icon:hover {
+		  color: #f56559;
+	  } 
+  }
+
+  
+  @include breakpoint(479px) {
+  	width: span(6);
+  	
+  	
+
+  }
+
+
+
+  @include breakpoint(960px) {
+  	width: span(4);
+
+  }
+
+  
+  @include breakpoint(1140px) {
+  	width: span(3);
+
+  }
+} 
+
+
+//single post
+
+.single_post {
+  
+  background-color: #FFF;
+  padding: gutter();
+  margin-bottom: gutter() ;     
+  @include span(12 of 12);
+  
+  h1{
+	  text-align: center;
+	  text-transform: uppercase;
+  }
+  
+  
+  @include breakpoint(960px) {
+	
+  	@include span(8 of 12);
+  }
+  
+  
+  
+  /*
+  @include breakpoint(479px) {
+  	background-color: lime;
+  	width: span(6);
+ 
+  }
+  
+  @include breakpoint(960px) {
+  	width: span(4);
+  }
+
+  
+  @include breakpoint(1140px) {
+    background-color: #FF9a9a;
+  	width: span(8);
+  }
+  */
+}  
+
+
+.side_bar {
+  
+	
+  
+  @include span(12 of 12 last);
+  
+  div{
+  	//padding: gutter()*2;
+  	background-color: #FFF;
+	padding-bottom:gutter();  	
+  	//margin-bottom: gutter() ;       	
+
+  }
+  
+  div .textwidget{
+	  padding-left: gutter()*2;
+	  padding-right: gutter()*2;
+ 
+  }
+  
+  h2{
+  	  padding: gutter()*2;	
+	  text-transform: uppercase;
+	  color: #696969;
+	  font-size: em(16px);
+	  //border-bottom: 1px solid #CCC;
+  }
+  
+  h2 hr{
+  	  border:none;	
+	  margin-bottom: - em(13px);
+	  background-color: #BBB;
+	  height: 1px;
+
+  }
+
+  @include breakpoint(960px) {
+  	
+  	@include span(4 of 12 last);
+  }
+
+
+  /*
+  width: span(4);
+  
+  @include breakpoint(479px) {
+  	background-color: lime;
+  	width: span(6);
+ 
+  }
+  
+
+  
+  @include breakpoint(1140px) {
+    background-color: #FF5858;
+  	width: span(4);
+  }
+  */
+}
+
+.highlight{
+	background-color: orange;
+	color: #FFF;
+	padding-left: 3px;
+	padding-right: 3px;
+}  
+
+
+
+
